@@ -8,6 +8,8 @@ Para elaboração deste projeto, faremos as etapas a seguir:
 - Conhecer a estrutura de dados do Projeto
 - Iniciar Projeto no Power BI Desktop carregando os dados
 - Criar gráfico e utilizar Tool Tip
+- Transformar dados com power query
+- Utilizar linguagem M
 
 ## Briefing
 O objetivo é entender o volume de vendas online das 10 principais categorias/departamentos:
