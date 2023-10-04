@@ -10,7 +10,7 @@ Para elaboração deste projeto, faremos as etapas a seguir:
 - Criar gráfico e utilizar Tool Tip
 
 ## Briefing
-O objetivo é entender o volume de vendas das 10 principais categorias/departamentos:
+O objetivo é entender o volume de vendas online das 10 principais categorias/departamentos:
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/AnjosBeatriz/Projeto-Power-BI-EBAC---Grupo-Varejo-Brasil/blob/345c5e9ac5c0e39443d3a4f35b0cdf11e4169464/compras-online.gif" alt="Compra Online" width="100" height="100">
